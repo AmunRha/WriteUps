@@ -112,6 +112,7 @@ s.add(inp[61] == 117)
 
 print(s.check())
 m = s.model()
-#flag = ''.join( [ chr(int(str(m[i]))) for i in range(len(m))] )
 flag = [chr(int(str(m[inp[i]]))) for i in range(len(m))]
 print(''.join(flag))
+
+# Flag : FWORDctf{Wh4t_4b0ut_th1s_w31rd_L0ng_fL4g_th4t_m4k3_n0_s3ns3_but_st1LL_w1LL_g1v3_y0u_s0m3_p01ntz}
