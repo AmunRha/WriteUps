@@ -14,14 +14,17 @@ Check out [https://amunrha.github.io](https://amunrha.github.io) for full write 
     <li>
     <a href="">Omen</a><br>
       Windows based challenge. The challenge includes process injection, and shellcode. Stepping through instructions should land us to the flag checker
-      eventually, and then its just simple equations which can be solved using z3
+      eventually, and then its just simple equations which can be solved using z3.<br>
       Tags: [#z3, #windows]
     </li>
-    
+  </ul>
+  
+  <ul>
     <li>
     <a href="">SAW</a><br>
       Windows based challenge. The challenge included concepts of process hollowing, multiple anti-debugging checks, run time function resolving and implementaion 
-      of opaque predicates to do anti analysis. Final bitwise check can be extracted and parsed using capstone.
+      of opaque predicates to do anti analysis. Final bitwise check can be extracted and parsed using capstone.<br>
+      Tags: [#anti-debugging, #opaque-predicates]
     </li>   
   </ul>
 </details>
