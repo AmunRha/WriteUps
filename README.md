@@ -12,7 +12,7 @@ Check out [https://amunrha.github.io](https://amunrha.github.io) for full write 
   <summary>FWORD CTF 2021</summary>
   <ul>
     <li>
-    <a href="">Omen</a><br>
+    <a href="https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/Omen/solve_z3.py">Omen</a><br>
       Windows based challenge. The challenge includes process injection, and shellcode. Stepping through instructions should land us to the flag checker
       eventually, and then its just simple equations which can be solved using z3.<br>
       Tags: [#z3, #windows]
