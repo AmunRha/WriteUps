@@ -116,3 +116,5 @@ its place.
 
 The script is attached here: [solve.py](https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/SAW/solve.py)
 
+Flag: `FwordCTF{Wh4t_4r3_y0u_w1LL1ng_t0_L0s3?}`
+
