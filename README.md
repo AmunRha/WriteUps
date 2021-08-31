@@ -24,7 +24,7 @@ Check out [https://amunrha.github.io](https://amunrha.github.io) for full write 
     <a href="">SAW</a><br>
       Windows based challenge. The challenge included concepts of process hollowing, multiple anti-debugging checks, run time function resolving and implementaion 
       of opaque predicates to do anti analysis. Final bitwise check can be extracted and parsed using capstone.<br>
-      Tags: [#anti-debugging, #opaque-predicates]
+      Tags: [#anti-debugging, #opaque-predicates, #windows]
     </li>   
   </ul>
 </details>
