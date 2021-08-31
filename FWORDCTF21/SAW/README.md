@@ -114,5 +114,5 @@ You can check out about opaque predicates, in many malware reports.
 To bypass it, I just extracted all the bytes for that function, and used `capstone` to disassemble the opcodes and parsed the bytes to get the right bits into
 its place.
 
-The script is attached here: (https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/SAW/solve.py)[solve.py]
+The script is attached here: [solve.py](https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/SAW/solve.py)
 
