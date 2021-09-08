@@ -92,7 +92,7 @@ private static void visitField_0_0(string oldInput)
 The characters checked against in the decompilation is `wasd` but during runtime functions similar to the above one are changed, specifically the character checked
 against are changed for every function during the JIT Hook.
 
-My approach to solving this was to completely debug the binary to construct the maze, find the solution and traverse it. I built a excel sheet script to construct the maze
+My approach to solving this was to completely debug the binary to construct the maze, find the solution and traverse it. I built a excel sheet [script](https://github.com/AmunRha/WriteUps/blob/main/ALLESCTF21/Monstrosity/maze_builder.py) to construct the maze
 and my team members produced a solution for the maze parallely. 
 
 Debugging the whole way through we finally receieve the flag, 
