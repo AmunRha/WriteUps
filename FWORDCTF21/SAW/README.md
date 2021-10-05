@@ -20,7 +20,7 @@ right place and continuing.
 Then there were two other specific anti debugging trick implemented which is specific only for windows, #windows-magic XD. Both of them used the PEB structure
 to check if a debugger is currently attached to the process, it specifically checks two flags,
 
-- BeingDebug : Which will be set to 1 if there is a debugger present 
+- BeingDebugged : Which will be set to 1 if there is a debugger present 
 - NtGlobalFlag : Which will be set to 0x70 if there is a debugger present
 
 ---
