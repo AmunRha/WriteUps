@@ -11,7 +11,7 @@
   
   <ul>
     <li>
-    <a href="https://github.com/AmunRha/WriteUps/tree/main/FWORDCTF21/SAW">Dome Code</a><br>
+    <a href="https://github.com/AmunRha/WriteUps/tree/main/DOMECTF21/Dome_Code">Dome Code</a><br>
       The challenge file given was a picture, and apparantly the clue given gave the idea of solving it using the hex codes of colors.<br>
       Tags: [#misc]
     </li>   
