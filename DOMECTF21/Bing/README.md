@@ -1,4 +1,4 @@
-# Short WriteUp -- Bing
+# Short WriteUp - Bing
 
 ## Description 
 
