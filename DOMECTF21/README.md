@@ -19,7 +19,7 @@
   
   <ul>
     <li>
-    <a href="https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/Omen/solve_z3.py">Bing</a><br>
+    <a href="https://github.com/AmunRha/WriteUps/tree/main/DOMECTF21/Bing">Bing</a><br>
       This challenge was mostly based on substituting with the right things.<br>
       Tags: [#misc]
     </li>
