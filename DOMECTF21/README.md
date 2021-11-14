@@ -3,7 +3,7 @@
 
   <ul>
     <li>
-    <a href="https://github.com/AmunRha/WriteUps/blob/main/FWORDCTF21/Omen/solve_z3.py">Assemble It</a><br>
+    <a href="https://github.com/AmunRha/WriteUps/tree/main/DOMECTF21/Assemble_It">Assemble It</a><br>
       This challenge was based on python disassembly, the solution would be to manually decompile and understand the program. Then writing a decrypt function would get the flag.<br>
       Tags: [#python, #bytecode]
     </li>
